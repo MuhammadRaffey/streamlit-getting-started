@@ -1,14 +1,9 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
 from langchain_groq import ChatGroq
-import os
 from langchain_core.messages import HumanMessage
-from dotenv import load_dotenv, find_dotenv
 
-_=load_dotenv(find_dotenv())
 
-groq_api_key = os.getenv("GROQ_API_KEY")
+groq_api_key = st.secrets["groq_api_key"]
 
 # Apply custom CSS for a modern dark theme
 st.markdown(
