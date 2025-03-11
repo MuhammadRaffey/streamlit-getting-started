@@ -19,7 +19,7 @@ A modern, responsive AI chat interface built with Streamlit and powered by Groq'
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python 3.11 or higher
 - UV package manager (recommended)
 
 ### Installation
@@ -27,8 +27,8 @@ A modern, responsive AI chat interface built with Streamlit and powered by Groq'
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-chat-interface.git
-cd ai-chat-interface
+git clone https://github.com/MuhammadRaffey/streamlit-getting-started.git
+cd streamlit-getting-started
 ```
 
 2. Create and activate a virtual environment:
