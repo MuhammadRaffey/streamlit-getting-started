@@ -2,7 +2,7 @@
 
 A modern, responsive AI chat interface built with Streamlit and powered by Groq's LLM through LangChain. This application demonstrates the integration of cutting-edge AI capabilities in a user-friendly environment.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1+-green.svg)
 
